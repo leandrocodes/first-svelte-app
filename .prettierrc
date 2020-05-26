@@ -4,6 +4,6 @@
 	"trailingComma": "none",
 	"arrowParens": "avoid",
 	"tabWidth": 2,
-	"useTabs": true,
+	"useTabs": false,
 	"semi": false
 }
