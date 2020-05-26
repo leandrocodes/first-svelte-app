@@ -10,6 +10,7 @@
   }
   ul li {
     margin: 0 15px;
+    cursor: pointer;
   }
   ul li:hover {
     color: #f53e03;
