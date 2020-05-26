@@ -18,7 +18,7 @@
 </style>
 
 <header>
-  <Logo name={'leandrocodes'} />
+  <Logo logo={'leandrocodes'} />
   <Navbar />
 </header>
 <h1>Hello {name}!</h1>

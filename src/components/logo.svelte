@@ -1,5 +1,5 @@
 <script>
-  export let name
+  export let logo
 </script>
 
-<p>{name}</p>
+<p>{logo}</p>
